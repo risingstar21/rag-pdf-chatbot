@@ -1,0 +1,14 @@
+streamlit
+langchain>=0.1.14
+langchain-community>=0.0.21
+pdfminer.six
+chromadb>=0.4.24
+sentence-transformers
+transformers
+pypdf
+tqdm
+numpy
+typing-extensions>=4.5.0
+pydantic<2
+
+
